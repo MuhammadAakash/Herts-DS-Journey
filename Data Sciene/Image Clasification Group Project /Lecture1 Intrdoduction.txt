@@ -1,0 +1,20 @@
+
+
+Computer Vision Applicatio 
+Types
+
+- Image Clasicfication
+- Object Detection 
+- Image Segmentation
+- Counting Objects
+
+
+OCR -> Can includes Segmentation and Clasicfication, Feature extraction 
+POSE Estimation -> Object Detection, Segmentation and Feature extraction
+Augmented Reality -> Same as above
+3D Reconstruction 
+Style Transfer and Image Generation: Same as above
+
+
+
+What type of Computer vision Applicatios can be used to monitor livestock health and welfare?

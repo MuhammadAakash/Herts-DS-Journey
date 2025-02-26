@@ -1,0 +1,70 @@
+City                    "Alternative name"       "Year granted"   "Cathedral (pre-1888)"                                    "City council"                Nation/Region      Population   
+Aberdeen                "Aiberdeen"              1891             "High Kirk of Aberdeen (St Machar's)"                     "Local government district"   Scotland            189120       
+Armagh                  "Ard Mhacha"             1994             "*not applicable*"                                        "Local government district"   "Northern Ireland"   59340        
+Bangor                  Bangor                     927            "Church of St Deiniol"                                    Community                     Wales                16358        
+Bath                    "Aquae Sulis"            1090             "Abbey Church of SS Peter & Paul"                         "Charter trustees"            England              88859        
+Belfast                 "Beal Feirste"           1888             "*not applicable*"                                        "Local government district"   "Northern Ireland"  333871       
+Birmingham              Birmingham               1889             "*not applicable*"                                        "Local government district"   England            1092330      
+Bradford                Bradford                 1897             "*not applicable*"                                        "Local government district"   England             522452       
+"Brighton & Hove"       "Brighton & Hove"        2000             "*not applicable*"                                        "Local government district"   England             273369       
+Bristol                 Bristol                  1542             "Church of the Holy & Undivided Trinity"                  "Local government district"   England             428234       
+Cambridge               Durolipons               1951             "*not applicable*"                                        "Local government district"   England             123867       
+Canterbury              Canterbury               927              "Church of Christ"                                        "Local government district"   England             151145       
+Cardiff                 Caerdydd                 1905             "*not applicable*"                                        "Local government district"   Wales               346090       
+Carlisle                Lugovalium               1133             "Church of the Holy & Undivided Trinity"                  "Local government district"   England             107524       
+Chelmsford              Chelmsford               2012             "*not applicable*"                                        "Local government district"   England             168310       
+Chester                 "Deva Victrix"           1541             "Church of Christ & the Blessed Virgin Mary"              "Charter trustees"            England              91733        
+Chichester              "Noviomagus Reginorum"   1075             "Church of the Holy Trinity"                              "Civil parish"                England              26795        
+"City of London"        Londinium                 927             "Church of St Paul"                                       "Local government district"   England               7375         
+"City of Westminster"   "City of Westminster"    1540             "Collegiate Church of St Peter (Westminster Abbey)"       "Local government district"   England             219396       
+Coventry                Coventry                 1102             "St Michael's Cathedral"                                  "Local government district"   England             316915       
+Derby                   Derby                    1977             "*not applicable*"                                        "Local government district"   England             248752       
+Derry                   Doire                    1604             "*not applicable*"                                        "Local government district"   "Northern Ireland"  107877       
+Dundee                  "Dun Deagh"              1889             "*not applicable*"                                        "Local government district"   Scotland            153990       
+Durham                  Durham                    927             "Church of Christ & St. Mary the Virgin"                  "Charter trustees"            England              94375        
+Edinburgh               "Dun Eideann"            1707             "High Kirk of Edinburgh (St Giles's)"                     "Local government district"   Scotland            468720       
+Ely                     Ely                      1109             "Church of the Holy & Undivided Trinity"                  "Civil parish"                England              20256        
+Exeter                  "Isca Dumnoniorum"        927             "Church of St Peter"                                      "Local government district"   England             117773       
+Glasgow                 Glesga                   1707             "High Kirk of Glasgow (St Mungo's)"                       "Local government district"   Scotland            589900       
+Gloucester              "Glevum Colonia"         1541             "Church of St Peter & the Holy and Indivisible Trinity"   "Local government district"   England             121688       
+Hereford                Hereford                  927             "Church of SS Mary the Virgin & Ethelbert the King"       "Civil parish"                England              58896        
+Inverness               "Inbhir Nis"             2000             "*not applicable*"                                        none                          Scotland             57960        
+"Kingston upon Hull"    "Kingston upon Hull"     1897             "*not applicable*"                                        "Local government district"   England             256406       
+Lancaster               Lancaster                1937             "*not applicable*"                                        "Local government district"   England             138375       
+Leeds                   Leodis                   1893             "*not applicable*"                                        "Local government district"   England             751485       
+Leicester               "Ratae Corieltauvorum"   1919             "*not applicable*"                                        "Local government district"   England             329839       
+Lichfield               Lichfield                 927             "Church of SS Mary & Chad"                                "Civil parish"                England              32219        
+Lincoln                 "Lindum Colonia"         1072             "Church of St Mary"                                       "Local government district"   England              93541        
+Lisburn                 "Lios na gCearrbhach"    2002             "*not applicable*"                                        "Local government district"   "Northern Ireland"  120165       
+Liverpool               Liverpool                1880             "Church of Christ"                                        "Local government district"   England             466415       
+Manchester              Mamucium                 1853             "Church of St Mary, St Denys, & St George"                "Local government district"   England             503127       
+"Newcastle upon Tyne"   "Pons Aelius"            1882             "Church of St Nicholas"                                   "Local government district"   England             280177       
+Newport                 Casnewydd                2002             "*not applicable*"                                        "Local government district"   Wales               145736       
+Newry                   "Iur Cinn Tra"           2002             "*notapplicable*"                                          none                         "Northern Ireland"   29946        
+Norwich                 Norwich                  1094             "Church of the Holy & Undivided Trinity"                  "Local government district"   England             132512       
+Nottingham              Nottingham               1897             "*not applicable*"                                        "Local government district"   England             305680       
+Oxford                  Oxford                   1542             "Church of Christ"                                        "Local government district"   England             151906       
+Perth                   Pairth                   2012             "*notapplicable*"                                         none                          Scotland             45770        
+Peterborough            Peterborough             1541             "Church of St Peter, St Paul, & St Andrew"                "Local government district"   England             183631       
+Plymouth                Plymouth                 1928             "*not applicable*"                                        "Local government district"   England             256384       
+Portsmouth              Portsmouth               1926             "*not applicable*"                                        "Local government district"   England             205056       
+Preston                 Preston                  2002             "*not applicable*"                                        "Local government district"   England             140202       
+Ripon                   Ripon                    1836             "Church of SS Peter & Wilfrid"                            "Civil parish"                England              16702        
+Salford                 Salford                  1926             "*not applicable*"                                        "Local government district"   England             233933       
+Salisbury               Salisbury                1227             "Church of St Mary"                                       "Civil parish"                England              40302        
+Sheffield               Sheffield                1893             "*not applicable*"                                        "Local government district"   England             552698       
+Southampton             Southampton              1964             "*not applicable*"                                        "Local government district"   England             236882       
+"St Albans"             Verulamium               1877             "Church of St Alban"                                      "Local government district"   England             140644       
+"St Asaph"              Llanelwy                 2012             "*not applicable*"                                        Community                     Wales                 3355         
+"St David's"            Tyddewi                  1994             "*not applicable*"                                        Community                     Wales                 1841         
+Stirling                Stirlin                  2002             "*not applicable*"                                        none                          Scotland             34790        
+Stoke-on-Trent          Stoke-on-Trent           1925             "*not applicable*"                                        "Local government district"   England             249008       
+Sunderland              Sunderland               1992             "*not applicable*"                                        "Local government district"   England             275506       
+Swansea9                Abertawe                 1969             "*not applicable*"                                        "Local government district"   Wales               239023       
+Truro                   Truru                    1877             "Church of St Mary"                                       "Civil parish"                England              18766        
+Wakefield               Wakefield                1888             "Church of All Saints"                                    "Local government district"   England             325837       
+Wells                   Wells                     927             "Church of St Andrew"                                     "Civil parish"                England              10536        
+Winchester              "Venta Belgarum"          927             "Church of the Holy Trinity"                              "Local government district"   England             116595       
+Wolverhampton           Wolverhampton            2000             "*not applicable*"                                        "Local government district"   England             249470       
+Worcester               Worcester                 927             "Church of Christ & St Mary"                              "Local government district"   England              98768        
+York                    Eboracum                  927             "Church of St Peter"                                      "Local government district"   England             198051       
